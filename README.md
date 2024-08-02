@@ -2,7 +2,7 @@
 
 -meu nome e B3llauchira
 
--estou estudandon no alura
+-estou estudando no alura
 
 -estou usando essa conta para compartilhamento de meus projetos
 
